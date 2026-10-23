@@ -1,0 +1,8 @@
+# Build output
+app/gen/
+app/obj/
+app/bin/
+
+# Signing keys - never commit
+*.jks
+*.keystore
